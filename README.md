@@ -1,5 +1,6 @@
-![Vinay Khochare](vinay.gif)
-
+<p align="center">
+<img align="center"   height="340" width=""  src='vinay.gif' />
+</p>
 <p align="center">
         <samp> Hi, I am currrently working as FPGA R&D Engineer at Tejas Networks, Bangalore. <br>
                I am keenly interested in frontend flow of VLSI design.
