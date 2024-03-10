@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center"   height="340" width=""  src='vinay.gif' />
+<img align="center"   height="260" width=""  src='vinay.gif' />
 </p>
 <p align="center">
         <samp> Hi, I am currrently working as FPGA R&D Engineer at Tejas Networks, Bangalore. <br>
